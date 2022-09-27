@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on zibuyu28</title>
+    <link>https://zibuyu28.github.io/tags/</link>
+    <description>Recent content in Tags on zibuyu28</description>
+    <image>
+      <url>https://zibuyu28.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zibuyu28.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Sep 2022 22:50:43 +0800</lastBuildDate><atom:link href="https://zibuyu28.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://zibuyu28.github.io/tags/docker/</link>
+      <pubDate>Sun, 25 Sep 2022 22:50:43 +0800</pubDate>
+      
+      <guid>https://zibuyu28.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://zibuyu28.github.io/tags/kubernetes/</link>
+      <pubDate>Sun, 25 Sep 2022 22:50:43 +0800</pubDate>
+      
+      <guid>https://zibuyu28.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
